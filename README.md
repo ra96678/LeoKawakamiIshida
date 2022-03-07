@@ -1,4 +1,4 @@
-# LeoKawakamiIshida
+
 <div align="center">
   <a href="https://github.com/ra96678">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ra96678&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
@@ -10,6 +10,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+
  
 </div>
